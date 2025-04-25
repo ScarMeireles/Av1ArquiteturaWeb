@@ -29,4 +29,10 @@ public class Produto {
     private String name; // Nome do produto.
     private Double preco;
     private String description; // Descrição do produto.
+
+    public Produto() {
+    }
 }
+
+
+
