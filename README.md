@@ -1,37 +1,69 @@
-Repositório criado para a avaliação 1 de Arquitetura Web.
+# Projeto - Avaliação 1 de Arquitetura Web
 
-Este projeto foi criado com base na api desenvolvida durante as aulas e adaptado para cumprir com as requisições da avaliação.
+Repositório criado para a **Avaliação 1 da disciplina de Arquitetura Web**.
 
-===========================================================================
+Este projeto é baseado na API desenvolvida durante as aulas, com adaptações para atender às exigências da avaliação proposta.
 
-Para rodar o projeto:
+---
 
-**NÃO UTILIZAR A PASTA "Av1ArquiteturaWeb/ArquiteturaAplicacaoWeb-main", e sim a "Av1ArquiteturaWeb/democrud"!!**
+## ⚠️ Atenção
 
-* Foram utilizados:
-JDK 21,
-SpringBoot 3.4.5, Maven
-XAMPP, MariaDB, VSCODE.
+**Utilize a pasta correta para rodar o projeto:**
 
-Linguagem: Java.
+✅ `Av1ArquiteturaWeb/democrud`  
+❌ **NÃO utilizar** a pasta `Av1ArquiteturaWeb/ArquiteturaAplicacaoWeb-main`
 
-EndPoint Postman produto: http://localhost:8080/produto
-EndPointPostman categoria: http://localhost:8080/categoria
+---
 
-*Dependências:
-Spring Web,
-Spring Boot Dev Tools,
-Spring Data JPA,
-Lombok,
-Spring Data MongoDB,
-Maria DB Driver.
+## 🚀 Tecnologias Utilizadas
 
-===========================================================================
+- **Java 21**
+- **Spring Boot 3.4.5**
+- **Maven**
+- **MariaDB** (via XAMPP)
+- **VSCode**
+- **XAMPP**
 
-Mudanças Importantes:
+---
 
-Por algum motivo não foi possível executar o banco na porta padrão (3306), então ela foi alterada para "3307". (Mudança feita
-no XAMPP, MariaDB, e no application.yml).
+## 🛠️ Dependências
 
-Usuário padrão (Root, sem senha).
+- Spring Web  
+- Spring Boot DevTools  
+- Spring Data JPA  
+- Spring Data MongoDB  
+- Lombok  
+- MariaDB Driver  
+
+---
+
+## 🔧 Configurações Especiais
+
+⚠️ **Porta do banco de dados alterada para `3307`**  
+Motivo: Porta padrão (`3306`) estava indisponível.  
+Ajuste realizado no:
+- XAMPP
+- MariaDB
+- `application.yml`
+
+**Usuário padrão do banco de dados:**  
+`root` (sem senha)
+
+---
+
+## 📡 Endpoints (Postman)
+
+- Produtos: [http://localhost:8080/produto](http://localhost:8080/produto)  
+- Categorias: [http://localhost:8080/categoria](http://localhost:8080/categoria)
+
+---
+
+## ✅ Como rodar o projeto
+
+1. Certifique-se de que o banco MariaDB está ativo na porta **3307**.
+2. Use a pasta **`Av1ArquiteturaWeb/democrud`**.
+3. Compile e rode o projeto com Maven pelo VSCode.
+4. Utilize os endpoints com o Postman para testar as funcionalidades da API.
+
+---
 
