@@ -5,6 +5,9 @@ Este projeto foi criado com base na api desenvolvida durante as aulas e adaptado
 ============================================================================================
 
 Para rodar o projeto:
+
+**NÃO UTILIZAR A PASTA "Av1ArquiteturaWeb/ArquiteturaAplicacaoWeb-main", e sim a "Av1ArquiteturaWeb/democrud"!!**
+
 * Foram utilizados:
 JDK 21,
 SpringBoot 3.4.5, Maven
