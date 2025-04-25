@@ -1,4 +1,5 @@
 Repositório criado para a avaliação 1 de Arquitetura Web.
+
 Este projeto foi criado com base na api desenvolvida durante as aulas e adaptado para cumprir com as requisições da avaliação.
 ==============================================================================================================================
 
@@ -18,7 +19,7 @@ Lombok,
 Spring Data MongoDB,
 Maria DB Driver.
 
-==============================================================================================================================
+====================================================================================
 
 Mudanças Importantes:
 
