@@ -15,7 +15,8 @@ XAMPP, MariaDB, VSCODE.
 
 Linguagem: Java.
 
-Link Postman: http://localhost:8080/api/crud
+EndPoint Postman produto: http://localhost:8080/produto
+EndPointPostman categoria: http://localhost:8080/categoria
 
 *Dependências:
 Spring Web,
