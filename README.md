@@ -9,7 +9,9 @@ Para rodar o projeto:
 JDK 21,
 SpringBoot 3.4.5, Maven
 XAMPP, MariaDB, VSCODE.
-Linguagem: Java
+
+Linguagem: Java.
+
 Link Postman: http://localhost:8080/api/crud
 
 *Dependências:
