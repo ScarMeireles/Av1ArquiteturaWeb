@@ -6,15 +6,6 @@ Este projeto é baseado na API desenvolvida durante as aulas, com adaptações p
 
 ---
 
-## ⚠️ Atenção
-
-**Utilize a pasta correta para rodar o projeto:**
-
-✅ `Av1ArquiteturaWeb/democrud`  
-❌ **NÃO utilizar** a pasta `Av1ArquiteturaWeb/ArquiteturaAplicacaoWeb-main`
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - **Java 21**
